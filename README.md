@@ -12,8 +12,6 @@ The code is written by Lei Xu based on DeepStream SDK documents and Git reposito
 
 - [deploying on clond platform]
 
-- [CI/CD] 
-
 ## Hardware requirements
  1. Jetson Nano  
  2. several rtsp cameras (I used two phones with the app IP Camera)
