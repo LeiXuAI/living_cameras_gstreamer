@@ -9,8 +9,7 @@ The code is written by Lei Xu based on DeepStream SDK documents and Git reposito
 
 
 - [training own models]
-
-- [deploying on clond platform]
+- [deploying on cloud platform]
 
 ## Hardware requirements
  1. Jetson Nano  
@@ -20,7 +19,7 @@ The code is written by Lei Xu based on DeepStream SDK documents and Git reposito
 
 ```bash
 1. sudo apt-get install python3-dev python-gi-dev libgstreamer1.0-dev -y
-2. sudo apt-get install deepstream-5.1 -y;
+2. sudo apt-get install deepstream-5.1 -y
 ```
 
 # Download models
